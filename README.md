@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+username/username is a special repository. Its README.md will appear on your public profile!
+
 <!--
 **koscew/koscew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
